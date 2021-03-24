@@ -43,6 +43,7 @@ Projects are an integral part of learning. Watching one tutorial after the other
 # 2. Blog Webapp
    Create a web application which implements the CRUD functionality(Create, Read, Update, Delete). You may use HTML,CSS, EJS, Express, NodeJS and MongoDB. 
 # 3. ToDo List
+   ![Image of Yaktocat](https://SAY-droid427.github.com/todo.jpg)
    Similar to the web application for blogs, Todo list also implements the CRUD functionality
 # 4. Calculator
    Use HTML, CSS, Bootstrap and JavaScript to create a calculator. Similar to the one you use daily!
