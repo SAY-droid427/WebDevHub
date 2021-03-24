@@ -36,6 +36,17 @@
 Every developer must know what is Git and Github. Follow this link to study more about Git and Github.
 
 # MINI PROJECT IDEAS
+Projects are an integral part of learning. Watching one tutorial after the other will not make you a good web developer. Escape from the **tutorial hell**.After watching each topic from the above resources, try to create a project of your own. Got stuck? Google it out! Want help? Use stack overflow! But donot just blindly follow a tutorial and think that you have mastered web development. Get your hands dirty in code.
 
+# 1. Landing Page
+     Create a landing page for any website using HTML, CSS and JavaScript. Use CSS frameworks like Bootstrap and create a responsive, mobile-friendly landing page.
+# 2. Blog Webapp
+     Create a web application which implements the CRUD functionality(Create, Read, Update, Delete). You may use HTML,CSS, EJS, Express, NodeJS and MongoDB. 
+# 3. ToDo List
+     Similar to the web application for blogs, Todo list also implements the CRUD functionality
+# 4. Calculator
+     Use HTML, CSS, Bootstrap and JavaScript to create a calculator. Similar to the one you use daily!
+# 5. Quiz App
+     Create a quiz game app using HTML, CSS, JavaScript. You may also explore more functionality like Login using Google Login etc and also create admin panels. Let your creative juices flow.
 
 
