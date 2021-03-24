@@ -32,3 +32,10 @@
     * FRAMEWORK
        1. [ExpressJS](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
+# GIT AND GITHUB
+Every developer must know what is Git and Github. Follow this link to study more about Git and Github.
+
+# MINI PROJECT IDEAS
+
+
+
