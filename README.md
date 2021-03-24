@@ -56,4 +56,4 @@ Open source contributins are a great way to learn software development by readin
 3. [GirlScript Summer Of Code](https://gssoc.girlscript.tech/)
 4. [Outreachy](https://www.outreachy.org/)
 
-
+# Curated and maintained by Sayani Mallick
